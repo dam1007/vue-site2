@@ -13,7 +13,7 @@
                 </p>
                 <div class="user">
                     <div class="user-left">
-                    <img src="../assets/img/user01.svg" alt="사용자01"/>
+                    <img src="../assets/img/user01.png" alt="사용자01"/>
                     <span class="profile"></span>
                     </div>
                     <div class="user-right">
@@ -21,7 +21,7 @@
                         <em class="info">전문반(오디션)</em>
                     </p>
                     <div class="star">
-                        <img src="../assets/img/star01.svg" alt="평점"/>
+                        <img src="../assets/img/star.png" alt="평점"/>
                     </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
                 </p>
                 <div class="user">
                     <div class="user-left">
-                    <img src="../assets/img/user02.svg" alt="사용자02"/>
+                    <img src="../assets/img/user02.png" alt="사용자02"/>
                     <span class="profile"></span>
                     </div>
                     <div class="user-right">
@@ -44,7 +44,7 @@
                         <em class="info">입시반</em>
                     </p>
                     <div class="star">
-                        <img src="../assets/img/star01.svg" alt="평점"/>
+                        <img src="../assets/img/star.png" alt="평점"/>
                     </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                 </p>
                 <div class="user">
                     <div class="user-left">
-                    <img src="../assets/img/user03.svg" alt="사용자03"/>
+                    <img src="../assets/img/user03.png" alt="사용자03"/>
                     <span class="profile"></span>
                     </div>
                     <div class="user-right">
@@ -67,7 +67,7 @@
                         <em class="info">취미반</em>
                     </p>
                     <div class="star">
-                        <img src="../assets/img/star01.svg" alt="평점"/>
+                        <img src="../assets/img/star.png" alt="평점"/>
                     </div>
                     </div>
                 </div>

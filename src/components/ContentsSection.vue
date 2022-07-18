@@ -95,17 +95,17 @@
         display: inline-block;
         width: 60px;
         height: 60px;
-        background: url(../assets/img/icon01.svg) no-repeat;
+        background: url(../assets/img/icon01.png) no-repeat;
         margin-bottom: 10px;
     }
     #contents .right ul li:nth-child(2) .icon {
-        background-image: url(../assets/img/icon02.svg);
+        background-image: url(../assets/img/icon02.png);
     }
     #contents .right ul li:nth-child(3) .icon {
-        background-image: url(../assets/img/icon03.svg);
+        background-image: url(../assets/img/icon03.png);
     }
     #contents .right ul li:nth-child(4) .icon {
-        background-image: url(../assets/img/icon04.svg);
+        background-image: url(../assets/img/icon04.png);
     }
 
     #contents .right ul li h3 {
